@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/<repo-owner>/<repo-name>" title="<repo-title>">
-    <img src="https://kingtechnologies.dev/assets/images/Logo.webp" width="80px" alt="<repo-title>"/>
+  <a href="https://github.com/<Andres Vasquez>/<king inc>" title="<Projct X>">
+    <img src="https://kingtechnologies.dev/assets/images/Logo.webp" width="80px" alt="<Project X>"/>
   </a>
 </p>
 <h1 align="center">🌟 <repo-title> 🌟</h1>
